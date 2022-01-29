@@ -5,5 +5,4 @@ DETAYLI MESAJ
 DETAYLI SUNUCU BİLGİ
 DETAYLI KULLANICI İSTATİSTİK.
 
-
-https://cdn.discordapp.com/attachments/935489464564846612/936973352512421908/stat_goruntu.png
+![alt text](https://cdn.discordapp.com/attachments/935489464564846612/936973352512421908/stat_goruntu.png)
